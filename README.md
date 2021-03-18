@@ -6,7 +6,6 @@
 - 🧠 Back-end developer.
 - ⭐ Minecraft/Geometry Dash is my daily game. Nothing else.
 - ☕ Coffee-addicted.
-- 😥 I'm actually an introvert. Sorry.
 
 ### Soft-skills
 - 🤖 Javascript, HTML, CSS

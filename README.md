@@ -1,4 +1,4 @@
-## Hi, I'm [ray.](https://ray1337.com/profile) 👋
+## Hi, I'm [ray.](https://ray1337.com/about) 👋
 
 ### About
 - 🤖 I'm currently learning about Artificial Intelligence and stuff.

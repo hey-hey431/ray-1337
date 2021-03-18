@@ -1,12 +1,13 @@
 ## Hi, I'm [ray.](https://ray1337.com/about) 👋
 
 ### About
-- 🤖 I'm currently learning about Artificial Intelligence and stuff.
+- 🤖 I'm currently learning about Artificial Intelligence, Discord Bot project and stuff.
 - 🎓 I'm still on high school!
 - 💼 Self-employed.
 - 🧠 Back-end developer.
 - ⭐ Minecraft/Geometry Dash is my game. Nothing else.
 - ☕ Coffee-addicted.
+- 😥 I'm actually an introvert. Sorry.
 
 ### Soft-skills
 - 🤖 Javascript, HTML, CSS

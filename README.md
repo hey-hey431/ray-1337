@@ -1,5 +1,4 @@
-## Hi, I'm [ray.](https://ray1337.com/about) 👋
-
+## Hi, I'm <a href="https://ray1337.com/about" target="_blank">ray.</a> 👋
 ### About
 - 🤖 I'm currently learning about Artificial Intelligence, Discord Bot project and stuff.
 - 🎓 I'm still in high school!

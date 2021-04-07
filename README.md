@@ -1,16 +1,17 @@
 ## Hi, I'm <a href="https://ray1337.com/about" target="_blank">ray.</a> 👋
 ### About
 - 🤖 I'm currently learning about Artificial Intelligence, Discord Bot project and stuff.
-- 🎓 I'm still in high school!
+- 🎓 I'm still in the vocational high school.
 - 💼 Self-employed.
-- 🧠 Back-end developer.
-- ⭐ Minecraft/Geometry Dash is my daily game. Nothing else.
-- ☕ Coffee-addicted.
+- 🧠 Full-stack developer.
+- ⭐ Rarely playing games, I guess.
+- ☕ Coffee addict. I'm dying without that.
+- ⏱ I'm 15 y.o.
 
 ### Soft-skills
 - 🤖 Javascript, HTML, CSS
-- 🔧 Visual Studio Code, Sublime Text
-- ⌨ Adobe Photoshop, Adobe Premiere Pro, Vegas Pro, FL Studio
+- 🔧 Visual Studio Code, Atom
+- ⌨ Photoshop, Premiere Pro, Vegas Pro, FL Studio
 
 <br>
 

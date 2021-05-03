@@ -9,9 +9,12 @@
 - ⏱ I'm 15 y.o.
 
 ### Soft-skills
-- 🤖 Javascript, HTML, CSS
-- 🔧 Visual Studio Code, Atom
+- 🤖 Javascript, HTML/CSS
+- 🔧 Visual Studio Code
 - ⌨ Photoshop, Premiere Pro, Vegas Pro, FL Studio
+
+### My works:
+- https://blob-project.com
 
 <br>
 
